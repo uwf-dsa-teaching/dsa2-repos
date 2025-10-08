@@ -1,0 +1,24 @@
+[submodule "dsa2-proj-bin-packing-solution"]
+	path = dsa2-proj-bin-packing-solution
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-bin-packing-solution.git
+[submodule "dsa2-proj-bin-packing"]
+	path = dsa2-proj-bin-packing
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-bin-packing.git
+[submodule "dsa2-proj-lcs-solution"]
+	path = dsa2-proj-lcs-solution
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-lcs-solution.git
+[submodule "dsa2-proj-lcs"]
+	path = dsa2-proj-lcs
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-lcs.git
+[submodule "dsa2-proj-sorting-analysis-solution"]
+	path = dsa2-proj-sorting-analysis-solution
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-sorting-analysis-solution.git
+[submodule "dsa2-proj-sorting-analysis"]
+	path = dsa2-proj-sorting-analysis
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-sorting-analysis.git
+[submodule "dsa2-proj-tsp-ga-solution"]
+	path = dsa2-proj-tsp-ga-solution
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-tsp-ga-solution.git
+[submodule "dsa2-proj-tsp-ga"]
+	path = dsa2-proj-tsp-ga
+	url = git@github.com:uwf-fang-teaching/dsa2-proj-tsp-ga.git
