@@ -1,24 +1,30 @@
-[submodule "dsa2-proj-bin-packing-solution"]
-	path = dsa2-proj-bin-packing-solution
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-bin-packing-solution.git
+[submodule "dsa2-lab-hello"]
+	path = dsa2-lab-hello
+	url = https://github.com/uwf-dsa-teaching/dsa2-lab-hello.git
+[submodule "dsa2-lab-hello-solution"]
+	path = dsa2-lab-hello-solution
+	url = https://github.com/uwf-dsa-teaching/dsa2-lab-hello-solution.git
 [submodule "dsa2-proj-bin-packing"]
 	path = dsa2-proj-bin-packing
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-bin-packing.git
-[submodule "dsa2-proj-lcs-solution"]
-	path = dsa2-proj-lcs-solution
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-lcs-solution.git
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-bin-packing.git
+[submodule "dsa2-proj-bin-packing-solution"]
+	path = dsa2-proj-bin-packing-solution
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-bin-packing-solution.git
 [submodule "dsa2-proj-lcs"]
 	path = dsa2-proj-lcs
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-lcs.git
-[submodule "dsa2-proj-sorting-analysis-solution"]
-	path = dsa2-proj-sorting-analysis-solution
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-sorting-analysis-solution.git
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-lcs.git
+[submodule "dsa2-proj-lcs-solution"]
+	path = dsa2-proj-lcs-solution
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-lcs-solution.git
 [submodule "dsa2-proj-sorting-analysis"]
 	path = dsa2-proj-sorting-analysis
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-sorting-analysis.git
-[submodule "dsa2-proj-tsp-ga-solution"]
-	path = dsa2-proj-tsp-ga-solution
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-tsp-ga-solution.git
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-sorting-analysis.git
+[submodule "dsa2-proj-sorting-analysis-solution"]
+	path = dsa2-proj-sorting-analysis-solution
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-sorting-analysis-solution.git
 [submodule "dsa2-proj-tsp-ga"]
 	path = dsa2-proj-tsp-ga
-	url = git@github.com:uwf-fang-teaching/dsa2-proj-tsp-ga.git
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-tsp-ga.git
+[submodule "dsa2-proj-tsp-ga-solution"]
+	path = dsa2-proj-tsp-ga-solution
+	url = https://github.com/uwf-dsa-teaching/dsa2-proj-tsp-ga-solution.git
